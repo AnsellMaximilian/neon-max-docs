@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneon_max_docs=self.webpackChunkneon_max_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/neon-max-docs/blog","blogTitle":"Blog","authorsListPath":"/neon-max-docs/blog/authors"}')}}]);

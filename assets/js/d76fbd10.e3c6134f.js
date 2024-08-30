@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkneon_max_docs=self.webpackChunkneon_max_docs||[]).push([[5573],{1914:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/neon-max-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
