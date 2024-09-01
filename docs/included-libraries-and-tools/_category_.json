@@ -1,0 +1,8 @@
+{
+  "label": "Included Libraries and Tools",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "About the included libraries and tools in Neon Max"
+  }
+}
