@@ -1,0 +1,63 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.tab {
+  display: flex;
+  font-size: 1.25rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  border: 1px rgb(176, 176, 176) solid;
+}
+
+.tabItem {
+  padding: 1rem;
+  color: gray;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tabItem:hover {
+  background: rgb(232, 232, 232);
+  cursor: pointer;
+  color: black;
+}
+
+.tabItemSelected,
+.tabItemSelected:hover {
+  color: black;
+  background: #b9ffb3;
+}
+
+.tabContent {
+  margin-top: 1rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  border: 1px rgb(176, 176, 176) solid;
+  padding: 1rem;
+  font-size: 1.25rem;
+}
+
+.tabContentToken {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 767px) {
+  .tabTitle {
+    display: none;
+  }
+
+  .tab {
+    justify-content: center;
+  }
+
+  .tabItem {
+    width: 75px;
+    display: flex;
+    justify-content: center;
+  }
+}
