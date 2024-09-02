@@ -21,3 +21,15 @@
   align-items: center;
   justify-content: center;
 }
+
+.heroBg {
+  background-color: black;
+  color: black;
+  font-weight: bold;
+}
+
+.glowText {
+  color: white;
+  text-shadow: 0 0 10px #20ffcc, 0 0 20px #b9ffb3, 0 0 30px #20ffcc,
+    0 0 40px #b9ffb3, 0 0 50px #20ffcc, 0 0 60px #b9ffb3;
+}
