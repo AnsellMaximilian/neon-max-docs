@@ -16,5 +16,3 @@ Neon Max is more than just a starter kit—it's a comprehensive toolkit that inc
 - **shadcn/ui**: Build stunning UI components effortlessly with shadcn/ui, a powerful component library that integrates seamlessly with Tailwind CSS.
 - **NextAuth**: Implement secure and flexible authentication solutions with NextAuth, a powerful authentication library for Next.js that supports various providers and strategies.
 - **Neon Max CLI**: Generate database models as well as corresponding CRUD actions with one command using Neon Max CLI, which ships with the starter kit.
-
-### Features
